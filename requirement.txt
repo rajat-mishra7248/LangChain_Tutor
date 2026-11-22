@@ -1,0 +1,14 @@
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+python-dotenv
+jupyter
+ipykernel
+langchain-groq
+langchain-openai
+langchain-google-genai
+langchain-tools
+langchain-google-vertexai
+langchain-tavily
+langgraph
